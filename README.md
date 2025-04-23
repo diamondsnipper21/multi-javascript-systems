@@ -3,7 +3,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/pradipchaudhary/100-js-projects)](https://github.com/pradipchaudhary/100-js-projects/stargazers)
 [![GitHub license](https://img.shields.io/github/license/pradipchaudhary/100-js-projects)](https://github.com/pradipchaudhary/100-js-projects/blob/main/LICENSE)
 
-Welcome to the **[100 JavaScript Projects](https://100jsproject.vercel.app/)** repository!
+Welcome to the **[Multi JavaScript Projects](https://100jsproject.vercel.app/)** repository!
 
 ![JavaScript Projects](./screenshot.png)
 
@@ -45,41 +45,7 @@ By working through these projects, you’re not just learning — you’re **cre
 
 ---
 
-## 🛠️ How to Use
 
-1. Clone this repository:
-
-    ```bash
-    git clone https://github.com/pradipchaudhary/100-js-projects.git
-    ```
-
-2. Navigate to the project folder:
-
-    ```bash
-    cd 100-js-projects
-    ```
-
-3. Each project is stored in its own directory with its own README file for instructions. Simply open the `index.html` file in a browser to view the project or open the project folder in your code editor to start coding.
-
----
-
-## 📝 Project List
-
-Here’s a quick overview of some of the projects included in this repository:
-
-| #   | Project                | Link                                                                                              |
-| --- | ---------------------- | ------------------------------------------------------------------------------------------------- |
-| 01  | To-Do List App         | [View Code](https://github.com/pradipchaudhary/100-js-projects/tree/master/01-To-Do%20List%20App) |
-| 02  | Simple Calculator      | [View Code](https://github.com/pradipchaudhary/100-js-projects/simple-calculator)                 |
-| 03  | Digital Clock          | [View Code](https://github.com/pradipchaudhary/100-js-projects/digital-clock)                     |
-| 04  | Tip Calculator         | [View Code](https://github.com/pradipchaudhary/100-js-projects/tip-calculator)                    |
-| 05  | Temperature Converter  | [View Code](https://github.com/pradipchaudhary/100-js-projects/temperature-converter)             |
-| 06  | Random Quote Generator | [View Code](https://github.com/pradipchaudhary/100-js-projects/random-quote-generator)            |
-| ... | ...                    | ...                                                                                               |
-
-Feel free to explore the [complete list of projects here](https://github.com/pradipchaudhary/100-js-projects).
-
----
 
 ## 👨‍💻 Technologies Used
 
@@ -111,15 +77,6 @@ Contributions are welcome! If you'd like to contribute:
 ## 📄 License
 
 This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
-
----
-
-## 📧 Contact
-
-Feel free to reach out if you have any questions or feedback!
-
--   **GitHub**: [pradipchaudhary](https://github.com/pradipchaudhary)
--   **Email**: [chaudharypradip678@gmail.com](mailto:chaudharypradip678@gmail.com)
 
 ---
 
